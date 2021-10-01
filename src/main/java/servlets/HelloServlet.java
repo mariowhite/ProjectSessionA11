@@ -1,4 +1,4 @@
-package com.example.ProjectSessionA11;
+package servlets;
 
 import java.io.*;
 import javax.servlet.http.*;
